@@ -65,13 +65,16 @@ mcp-client-gemini/
 4. The selected tool is executed on the **connected server**.
 5. The AI returns results and maintains **conversation context** (if supported).
 
-### Contributing
+## 🤝 Contributing
 
-Want to help others learn MCP + Gemini?
+At this time, this project does **not accept external code contributions**.
 
-✅ Add new client implementations  
-✅ Report bugs or request features  
-✅ Improve this documentation  
+This is to keep licensing simple and avoid any shared copyright.
 
-Just **fork the repo** and submit a **pull request**!
+You're very welcome to:
+✅ Report bugs or request features (via GitHub Issues)  
+✅ Fork the repo and build your own version  
+✅ Suggest documentation improvements
+
+If you'd like to collaborate in another way, feel free to open a discussion!
 
