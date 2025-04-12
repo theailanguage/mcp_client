@@ -1,0 +1,12 @@
+[
+  {
+    "sender": "User",
+    "message": "hi",
+    "timestamp": "2025-04-12 10:41:11"
+  },
+  {
+    "sender": "MCP",
+    "message": "Hi! How can I help you today?",
+    "timestamp": "2025-04-12 10:41:15"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "sender": "User",
+    "message": "Hi",
+    "timestamp": "2025-04-12 12:52:35"
+  },
+  {
+    "sender": "MCP",
+    "message": "Hi there! How can I help you today?",
+    "timestamp": "2025-04-12 12:52:38"
+  },
+  {
+    "sender": "User",
+    "message": "Create a file streamlit_success.txt with the text \"streamlit success\" using the run command tool",
+    "timestamp": "2025-04-12 12:54:55"
+  },
+  {
+    "sender": "MCP",
+    "message": "I have created the file streamlit_success.txt with the text \"streamlit success\".",
+    "timestamp": "2025-04-12 12:54:59"
+  }
+]

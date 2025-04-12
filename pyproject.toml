@@ -12,7 +12,10 @@ dependencies = [
     "langchain-mcp-adapters>=0.0.5",
     "langgraph>=0.3.18",
     "mcp>=1.4.1",
+    "nest-asyncio>=1.6.0",
+    "pillow>=11.1.0",
     "python-dotenv>=1.0.1",
+    "streamlit>=1.44.1",
 ]
 [tool.setuptools]
 py-modules = ["client_sse"]
